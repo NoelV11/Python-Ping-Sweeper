@@ -4,7 +4,7 @@
 
 ## Functionality
 - Filter and display 'live and responsive' hosts on a given network
-- Uses Python2 Linux Package
+- Uses Python2 Linux package
 
 ![One](https://user-images.githubusercontent.com/77625109/123983676-af7ce900-d9e1-11eb-9e7b-1b6d466bdd16.jpg)
 
